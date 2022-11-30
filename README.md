@@ -1,2 +1,2 @@
-# hobertonschool-simple_shell
+# holbertonschool-simple_shell
 simple shell partner project
